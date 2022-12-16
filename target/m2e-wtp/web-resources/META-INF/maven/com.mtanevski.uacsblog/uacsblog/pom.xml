@@ -9,7 +9,7 @@
 	<description>A blog web app that demonstrates the capabilities of CouchDB and Spring MVC, Core and Security together</description>
 	<properties>
 		<java-version>1.7</java-version>
-		<org.springframework-version>4.0.0.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.20.RELEASE</org.springframework-version>
 		<org.lightcouch-version>0.0.6</org.lightcouch-version>
 		<!-- Project build sourceEncoding -->
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
